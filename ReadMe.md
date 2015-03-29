@@ -1,5 +1,10 @@
 # SMS Classes
 
+this contain PHP classes for IdeaBiz API
+* SMS Messaging
+
+More will add soon
+
 ## Send SMS Request Class
 ```
 include_once 'SMS/SMSMessagingRequest.php';
