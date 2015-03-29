@@ -1,9 +1,10 @@
-# SMS Classes
-
+# PHP Classes
 this contain PHP classes for IdeaBiz API
 * SMS Messaging
 
 More will add soon
+
+# SMS Classes
 
 ## Send SMS Request Class
 ```
