@@ -28,3 +28,7 @@ This return json text of object
 ```
 include_once 'SMS/SMSMessagingResponse.php';
 ```
+
+```
+Please note, this is only sample code for simple app. Please chage this according to your bussiness and load.
+```
